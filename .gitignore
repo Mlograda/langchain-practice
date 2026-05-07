@@ -1,0 +1,18 @@
+# secrets
+.env
+.env.*
+
+# venv (replace with your actual venv folder name if different)
+langchain-lab/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+
+# notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# mac
+.DS_Store
